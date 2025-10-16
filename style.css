@@ -20,9 +20,27 @@ padding: 10px;
 color:chartreuse;
 }
 .chamada{
-    background-color: blue;
+    background-color: rgb(104, 104, 252);
     padding-bottom: 80px;
 padding-top: 80px;
 display:flex;
 justify-content: center;
 }
+.chamada-texto{
+    margin-right: 8%;
+
+}img{
+     height: 200px:
+}
+
+.categoria-video{
+    display:flex:
+    overflow-x:auto:
+
+    gap: 15px;
+
+}
+.categoria{
+    padding-left: 20px;
+    padding-right: 28px;
+    }

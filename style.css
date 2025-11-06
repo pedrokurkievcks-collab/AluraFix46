@@ -1,56 +1,56 @@
-body{
-    background-color: rgb(249, 179, 3)
-color:aquamarine;
-   font-family
-   margin: 0px;
-}
-h1{
-
- color:black
- font-size:40px;
+body {
+    background-color: rgb(249, 179, 3) color:aquamarine;
+    font-family margin: 0px;
 }
 
-p{
-font-size: 25px;
+h1 {
+
+    color: black font-size:40px;
 }
-header{
-border-bottom: solid 3x rgb(4, 242, 190);
-margin: 2px;
-padding: 10px;
-color:chartreuse;
+
+p {
+    font-size: 25px;
 }
-.chamada{
+
+header {
+    border-bottom: solid 3x rgb(4, 242, 190);
+    margin: 2px;
+    padding: 10px;
+    color: chartreuse;
+}
+
+.chamada {
     background-color: rgb(104, 104, 252);
     padding-bottom: 80px;
-padding-top: 80px;
-display:flex;
-justify-content: center;
+    padding-top: 80px;
+    display: flex;
+    justify-content: center;
 }
-.chamada-texto{
+
+.chamada-texto {
     margin-right: 8%;
 
-}img{
-     height: 200px:
 }
 
-.categoria-video{
-    display:flex:
-    overflow-x:auto:
-
-    gap: 15px;
-padding: 20px:
-scrollp-behavior: smooth;
+img {
+    height: 200px:
 }
 
-.categoria-video::-webkit-scrollbar{
+.categoria-video {
+    display: flex: overflow-x:auto: gap: 15px;
+    padding: 20px: scrollp-behavior: smooth;
+}
+
+.categoria-video::-webkit-scrollbar {
     height: 8px;
 }
-.categoria-video::-webkit-scrollbar-thumb{
-    background-color: rgb(21, 189, 35)
-    border-radius: 4px;
+
+.categoria-video::-webkit-scrollbar-thumb {
+    background-color: rgb(21, 189, 35) border-radius: 4px;
 }
-.categoria{
+
+.categoria {
 
     padding-left: 20px;
     padding-right: 28px;
-    }
+}
